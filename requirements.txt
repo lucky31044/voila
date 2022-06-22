@@ -1,5 +1,5 @@
 voila==0.1.21
 folium==0.11.0
-numpy==1.18.5
+numpy==1.22.0
 pandas==0.24.2
 plotly==4.8.1
